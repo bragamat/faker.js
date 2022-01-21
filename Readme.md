@@ -25,7 +25,7 @@ https://github.com/faker/faker-cloud
 ## Usage
 ### Install
 ```
-npm install --save-dev @bragamat/faker.js
+npm install --save-dev @bragamat/fakerjs
 ```
 
 ### Browser
