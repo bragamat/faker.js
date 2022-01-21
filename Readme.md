@@ -23,6 +23,10 @@ Try our hosted version of Faker at [https://fakercloud.com/api](https://fakerclo
 https://github.com/faker/faker-cloud
 
 ## Usage
+### Install
+```
+npm install --save-dev @bragamat/faker.js
+```
 
 ### Browser
 
